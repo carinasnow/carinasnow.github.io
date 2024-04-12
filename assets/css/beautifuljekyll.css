@@ -12,7 +12,7 @@ html {
 
 body {
   font-family: -apple-system,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica,Arial,sans-serif;
-  font-size: 1.125rem;
+  font-size: 1rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
@@ -182,8 +182,7 @@ img {
 
 .navbar-custom .navbar-nav .nav-item {
   text-transform: uppercase;
-  font-size: 0.8125rem;
-  letter-spacing: 0.0625rem;
+  font-size: 1rem;
 }
 
 .navbar-custom .navbar-nav .nav-link {
@@ -490,7 +489,7 @@ footer .footer-custom-content {
 .post-preview .post-meta,
 .post-heading .post-meta {
   color: #808080;
-  font-size: 1.125rem;
+  font-size: 1rem;
   font-style: italic;
   margin: 0 0 0.625rem;
   font-family: -apple-system,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica,Arial,sans-serif;
@@ -571,7 +570,7 @@ footer .footer-custom-content {
 
 .blog-tags {
   font-family: -apple-system,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica,Arial,sans-serif;
-  font-size: 0.9375rem;
+  font-size: 1rem;
   margin: 1.875rem 0;
 }
 
