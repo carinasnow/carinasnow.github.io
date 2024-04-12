@@ -1,95 +1,32 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
-mathjax: true
-author: Bill Smith
+title: 2023的需求、支持、机会
+tags: [Design]
+author: Carina
 ---
 
-{: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+### 一、深入一线了解客户需求
 
-**Here is some bold text**
+1. 在ToB企业服务中，深入一线是了解真实需求的关键。产品经理通常不是直接使用ToB产品的人，因此需要深入一线与客户和执行团队合作，以确保对需求的深刻理解和背后原因的把握。
+2. 客户需求沟通的不确定性常导致需求方案多次修改。内部沟通层层上报、满意度层层审核，这种流程容易导致反复修改。作为服务提供方，我们可以建立项目备案表，记录需求及执行情况、问题及解决方案，供客户参考和核实。
 
-## Here is a secondary heading
+### 二、产品技术支持售前与售后
 
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
+1. 产品形象对客户印象至关重要。ToB产品如数据滚动大屏、电子签到等，需具备仪式感和正式感，传递信心、先进性和专业性。产品服务要结合实际与虚拟，给客户良好体验，影响其购买决策，类似于情感与理性的平衡，让体验更加完美。
+2. 加强与客户的沟通与接触。通过朋友圈、海报、新闻稿、发布会等多种方式向客户传达产品新功能，及时沟通解决使用中的问题，提供总结材料给客户反馈意见，建立真正为客户着想的伙伴关系。这一点阿里云、某些短信服务商做得很好，值得学习。
+3. 提供竞品对比表及产品优劣势给售前团队，增强其信心。技术团队应传递产品服务的信心，助力售前团队成交。
+4. 提供系统使用说明材料，解释系统操作流程，不必过于详细，但要清晰易懂。
+5. 企业微信作为客户支持工具有很大优势，能建立更紧密的连接，提供视频通话、广告投放等功能，增强客户体验和便利性。
 
-Here's a table:
+### 三、风险防范措施
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+1. 在人为层面，记录关键操作日志，设置账号权限体系，对离职员工账号进行管控等措施，降低人为风险。
+2. 在系统层面，准备技术措施处理异常情况，保障系统平稳运行。
+3. 在制度层面，建立完整操作流程和问题清单，最大限度减少风险。
 
-You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
-When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+### 四、未来发展机会展望
 
-How about a yummy crepe?
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
-
-It can also be centered!
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
-
-## Local URLs in project sites {#local-urls}
-
-When hosting a *project site* on GitHub Pages (for example, `https://USERNAME.github.io/MyProject`), URLs that begin with `/` and refer to local files may not work correctly due to how the root URL (`/`) is interpreted by GitHub Pages. You can read more about it [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). To demonstrate the issue, the following local image will be broken **if your site is a project site:**
-
-![Crepe](/assets/img/crepe.jpg)
-
-If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
-
-![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
+1. AIGC生成式通用人工智能+行业结合，AI+机器人，如chatGPT、Stable Diffusion、Midjourney、Runway等项目；
+2. 3060碳中和及新能源领域，包括新能源车、超级充电桩、储能等；
+3. 机器人领域，特别是人形机器人，具有广阔前景；
+4. 一带一路倡议下的海上丝绸之路、陆上丝绸之路，以及东北地区与俄罗斯远东的合作与发展。
