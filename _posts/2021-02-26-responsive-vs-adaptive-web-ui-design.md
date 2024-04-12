@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 响应式设计还是自适应设计？
-subtitle: 您应该使用响应式设计还是自适应设计？
 tags: [desigon]
 author: Carina
 ---
