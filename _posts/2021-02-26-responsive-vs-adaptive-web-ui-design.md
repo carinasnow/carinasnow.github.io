@@ -2,10 +2,7 @@
 layout: post
 title: 响应式设计还是自适应设计？
 subtitle: 您应该使用响应式设计还是自适应设计？
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [desigon]
 author: Carina
 ---
 
