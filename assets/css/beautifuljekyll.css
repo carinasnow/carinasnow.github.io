@@ -131,7 +131,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background-color: {{ site.navbar-col | default: "#EAEAEA" }};
+  background-color: {{ site.navbar-col | default: "#FFF" }};
   border-bottom: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }};
   {% if site.navbar-img %}
     background-image: url({{ site.navbar-img | relative_url }});
