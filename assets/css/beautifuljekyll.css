@@ -65,7 +65,7 @@ a:focus {
 }
 blockquote {
   color: #808080;
-  font-style: italic;
+/*   font-style: italic; */
 }
 blockquote p:first-child {
   margin-top: 0;
@@ -977,7 +977,7 @@ pre {
 .blog-post blockquote {
   padding: 0.625rem 1.25rem;
   margin: 0 0 1.25rem;
-  font-size: 1.1rem;
+  font-size: 1rem;
   border-left: 0.3125rem solid #eee;
 }
 
