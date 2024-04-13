@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 关于我
+title: About
 subtitle: Product Manager / Photographer / Blogger
 ---
 
