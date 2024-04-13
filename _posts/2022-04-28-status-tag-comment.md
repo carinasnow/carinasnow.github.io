@@ -1,8 +1,6 @@
 ---
 layout: post
 title: 状态、标签、备注
-tags: [Design]
-author: Carina
 ---
 
 状态、标签、备注，都是对人或任务进行的标记，为了方便处理设计的。他们有啥区别，什么时候用？
