@@ -1,8 +1,6 @@
 ---
 layout: post
 title: 关键对话：如何高效能沟通？
-tags: [Design]
-author: Carina
 ---
 
 **什么是关键对话？**
