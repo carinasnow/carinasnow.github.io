@@ -940,6 +940,10 @@ pre {
 
 /* --- Misc blog post styles --- */
 
+.blog-post {
+  line-height: 1.8rem;
+}
+
 .blog-post :first-child {
   margin-top: 0;
 }
