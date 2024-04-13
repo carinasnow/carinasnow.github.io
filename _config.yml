@@ -20,8 +20,8 @@ author: Carina Snow
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Author's home: "https://carinasnow.com"
+  关于: "aboutme"
+  网站: "https://carinasnow.com"
 
 ################
 # --- Logo --- #
