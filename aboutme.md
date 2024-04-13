@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About me
+title: 关于我
 subtitle: Product Manager / Photographer / Blogger
 ---
 
-**关于我**
+**职业方向**
 
 - 我是一位互联网从业经验的产品经理。擅长产品设计和需求挖掘，经历过从0到1、再到N的产品设计项目
 - 我带领团队成功设计出了千万级用户量的互联网产品
@@ -19,4 +19,4 @@ subtitle: Product Manager / Photographer / Blogger
 
 **联系我**
 
-Email: me@carinasnow.com
+- Email: me@carinasnow.com
